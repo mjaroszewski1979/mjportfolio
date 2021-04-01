@@ -1,4 +1,4 @@
-# Maciej Jaroszewski Portfolio
+## <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/mj.png"> &nbsp; Maciej Jaroszewski Portfolio
 
 ### Simple  static website created with HTML, CSS and touch of Javascript. The main purpose is to give a prospective client a sense of who I am, what I can do and whether I am the person they should hire to execute their project.
 
