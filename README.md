@@ -12,7 +12,7 @@
    * About myself, my interests, goals and hobbies
    * Selected design examples
  * Footer
-   * Contact / Follow / Facebook / LinkedIn / GitHub / Youtube / Email 
+   * Contact / Follow / Facebook / LinkedIn / GitHub / Youtube / Resume
 
 -------------------
 
