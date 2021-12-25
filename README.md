@@ -24,7 +24,7 @@
 
 -------------------
 
-   ![caption](https://github.com/mjaroszewski1979/mjportfolio/blob/main/mjportfolio.gif)
+   ![caption](https://github.com/mjaroszewski1979/mjportfolio/blob/main/mjaroszewski_mockup.png)
 
   Live | Code | Technologies
   ---- | ---- | ------------
